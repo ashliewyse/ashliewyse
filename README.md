@@ -3,7 +3,8 @@
 ### 🏖️ Owner & Lead Developer at [Beachside Cleaners](https://github.com/Beachsidecare)
 I am the founder of Beachside Cleaners, where I oversee all business operations and personally architect the technology that powers our services.
 
-![Visitor Count](https://profile-counter.glitch.me/ashliewyse/count.svg)
+![Visitor Count](https://raw.githubusercontent.com/ashliewyse/ashliewyse/main/assets/visitor-count.svg))
+
 ![Ashlie typing](https://readme-typing-svg.herokuapp.com/?size=30&center=true&width=500&lines=Aspiring+Developer;Building+Real+Projects;Learning+Every+Day)
 ---
 
@@ -22,8 +23,6 @@ Website for managing services, booking, and client workflows — built with mode
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
