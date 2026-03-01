@@ -35,6 +35,8 @@ Website for managing services, booking, and client workflows — built with mode
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ashliewyse)
 
+## 📊 Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashliewyse&layout=compact&size_weight=0&count_weight=1)
 ---
 
