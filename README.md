@@ -31,8 +31,11 @@ Website for managing services, booking, and client workflows — built with mode
 
 ## 📊 GitHub Stats
 
-![Ashlie’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashliewyse&show_icons=true)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashliewyse)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ashliewyse)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashliewyse&layout=compact)
 ---
 
 📫 **Business Inquiries:** beachsidecleanersmc@gmail.com    and    wyseashlie@gmail.com
