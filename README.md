@@ -1,15 +1,36 @@
 # Hi, I'm Ashlie! 👋
 
-### 🏖️ Owner & Lead Developer at [Beachside Cleaners] (https://github.com/Beachsidecare)
-I am the founder of Beachside Cleaners, where I oversee all business operations and personally architect the technology that powers our services. My GitHub is a reflection of my commitment to combining business strategy with technical execution.
+### 🏖️ Owner & Lead Developer at [Beachside Cleaners](https://github.com/Beachsidecare)
+I am the founder of Beachside Cleaners, where I oversee all business operations and personally architect the technology that powers our services.
 
-- 🛠️ **Infrastructure:** Building custom ERP/Management tools for Beachside Cleaners to automate scheduling, client relations, and logistics.
-- 💻 **Tech Stack:** Python, Django, and modern web technologies tailored for small business scalability.
-- 🎯 **Mission:** Leveraging automation and clean code to provide premium service experiences.
+![Visitor Count](https://profile-counter.glitch.me/ashliewyse/count.svg)
+![Ashlie typing](https://readme-typing-svg.herokuapp.com/?size=30&center=true&width=500&lines=Aspiring+Developer;Building+Real+Projects;Learning+Every+Day)
+---
+
+## 🚀 Featured Projects
+
+### 💼 Beachside Cleaners Website  
+🔗 https://github.com/Beachsidecare/BeachsideCleaners  
+Website for managing services, booking, and client workflows — built with modern web tech for real users.
+
+*(Add more projects here as you create or highlight them!)*
 
 ---
 
-### 🚀 Principal Project: [Beachside Cleaners](https://github.com/Beachsidecare/BeachsideCleaners)
-This is the central hub for my business operations. 
+## 🛠️ Tech Stack
 
-📫 **Business Inquiries:** beachsidecleanersmc@gmail.com
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+---
+
+## 📊 GitHub Stats
+
+![Ashlie’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashliewyse&show_icons=true)
+
+---
+
+📫 **Business Inquiries:** beachsidecleanersmc@gmail.com    and    wyseashlie@gmail.com
+
